@@ -1,6 +1,6 @@
-Improving Housing Affordability in Nova Scotia: Rental Supply or First Time Homebuyer Incentives?
+# Improving Housing Affordability in Nova Scotia: Rental Supply or First Time Homebuyer Incentives?
 
-Decision Statement
+## Decision Statement
 
 Should the Director of Housing Policy at the Nova Scotia Department of Municipal Affairs and Housing prioritize rental supply expansion or first-time homebuyer incentives over the next 3–5 years to improve housing affordability in Nova Scotia?
 
