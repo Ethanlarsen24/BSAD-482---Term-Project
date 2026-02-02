@@ -37,7 +37,7 @@ Government of Canada, Statistics Canada. (2025, November 21). Persons in core ho
 
 Halifax Rental Market Outlook 2025: The missing middle. Halifax Rental Market Outlook 2025: The Missing Middle. (2025, February 20). https://www.heliourbandevelopment.com/post/halifax-rental-market-outlook-2025-the-missing-middle/
 
- Data Sources
+ ## Data Sources
 
 https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research
 
