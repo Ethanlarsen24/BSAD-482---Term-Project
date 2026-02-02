@@ -9,23 +9,23 @@ Several policy measures have already been introduced to respond to these issues.
 
 ## Key Stakeholders
 
- Renters
+# Renters
 	
 	Renters are the group most affected by housing affordability challenges in Nova Scotia, as they experience the highest rates of core housing need and are most sensitive to changes in rental supply, vacancy rates, and rental prices.
 
-First Time Homebuyers
+# First Time Homebuyers
 	
 	Prospective first time homebuyers are affected by housing prices, interest rates, and government incentives that influence access to homeownership, although they face lower rates of housing need than renters.
 
-Housing Developers and Builders
+# Housing Developers and Builders
 	
 	Developers play a central role in increasing housing supply and are directly influenced by zoning regulations, construction costs, tax incentives, and government policy decisions.
 
-Municipal Governments (EX: Halifax Regional Municipality)
+# Municipal Governments (EX: Halifax Regional Municipality)
 	
 	Municipal governments are responsible for land use planning, zoning reforms, and development approvals, which directly affect the pace and type of housing supply added to the market.
 
-Provincial Government and Policymakers
+# Provincial Government and Policymakers
 	
 	Provincial policymakers must balance affordability, fiscal constraints, and long term housing outcomes when deciding whether to prioritize rental supply expansion or first time homebuyer incentives.
 
