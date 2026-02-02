@@ -1,4 +1,4 @@
-Background
+## Backgrounder
 
 Housing affordability has become a major policy issue in Nova Scotia, particularly in urban areas such as Halifax. Rapid population growth has increased pressure on the province’s housing system, with Halifax’s population growing by approximately 4% in 2023 and surpassing 500,000 residents in 2024. This growth has been driven largely by international immigration and young adults in migration. As demand for housing continues to rise, many households are finding it increasingly difficult to secure affordable housing, with renters facing some of the greatest challenges. These conditions have placed significant pressure on provincial decision makers to determine how best to improve housing affordability.
 Recent rental market conditions highlight the severity of the challenge. Vacancy rates for purpose built rental units in Halifax reached historic lows of approximately 1.0% in 2023. Although vacancy increased to about 2.1% by late 2024, it remained below the ten year average of 2.7%. Even with this improvement, affordability pressures persisted. Lower priced rental units, particularly those renting for under $1,300 per month, continued to experience vacancy rates well below 1%, indicating that affordable rental housing remains extremely scarce. While rent growth slowed in 2024, average rents remained high following increases of roughly 60% over the past decade, limiting meaningful relief for renters.
@@ -7,9 +7,9 @@ Affordability outcomes further complicate this tradeoff. Statistics Canada data 
 Several policy measures have already been introduced to respond to these issues. In 2024, Halifax implemented zoning reforms aimed at encouraging missing middle housing. These changes allow up to four units as of right on most residential lots and up to eight units in transit accessible urban areas. Supported by the federal Housing Accelerator Fund, these reforms are intended to increase rental supply by enabling small scale development. In addition, federal and provincial governments removed the full HST on new purpose built rental construction, lowering development costs. At the same time, Nova Scotia has maintained a 5% rent increase cap for existing tenants, which is currently extended through at least 2025 to protect renters from sharp rent increases.
 
 
-Key Stakeholders
+## Key Stakeholders
 
-Renters
+ Renters
 	Renters are the group most affected by housing affordability challenges in Nova Scotia, as they experience the highest rates of core housing need and are most sensitive to changes in rental supply, vacancy rates, and rental prices.
 
 First Time Homebuyers
