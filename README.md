@@ -2,7 +2,7 @@
 
 ## Decision Statement
 
-Should the Director of Housing Policy at the Nova Scotia Department of Municipal Affairs and Housing prioritize rental supply expansion or first-time homebuyer incentives over the next 3–5 years to improve housing affordability in Nova Scotia?
+Should the Director of Housing Policy at the Nova Scotia Department of Municipal Affairs and Housing prioritize rental supply expansion or first time homebuyer incentives over the next 3–5 years to improve housing affordability in Nova Scotia?
 
 ## Executive Summary
 
