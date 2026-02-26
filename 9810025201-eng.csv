@@ -1,0 +1,49 @@
+﻿"Shelter-cost-to-income ratio by tenure: Canada, provinces and territories, census metropolitan areas and census agglomerations"
+"Frequency: Occasional"
+"Table: 98-10-0252-01"
+"Release date: 2022-09-23"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration"
+"Universe: Owner and tenant households in off-reserve, non-farm private dwellings, 2021 Census — 25% Sample data"
+"Variable List: Shelter-cost-to-income ratio (5), Household total income groups (14), Household type including census family structure (16), Housing suitability (3), Dwelling condition (3), Statistics (3C), Tenure (3)"
+
+"Geography","Nova Scotia i10",,
+"Household total income groups (14) 1","Total - Total income of household",,
+"Household type including census family structure (16) 2","Total - Household type including census family structure 5",,
+"Housing suitability (3) 3","Total - Housing suitability",,
+"Dwelling condition (3) 4","Total - Dwelling condition",,
+"Statistics (3C)","Number of private households",,
+"Tenure (3) 6","Total - Tenure","Owner","Renter"
+"Shelter-cost-to-income ratio (5) 7"
+"Total - Shelter-cost-to-income ratio","422,200","283,280","138,920"
+"Spending less than 30% of income on shelter costs","346,445","255,780","90,670"
+"Spending 30% or more of income on shelter costs","75,475","27,320","48,150"
+"30% to less than 100%","66,865","24,275","42,595"
+"Not applicable 8","285","180","100"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i10,"Geography name: Nova Scotia; Geographic area type: Province; Geographic area type abbreviation: PR; Geographic level: Province or territory; Province or territory abbreviation: N.S.; Dissemination Geography Unique Identifier (DGUID): 2021A000212; Alternative geographic code: 12; Province or territory geocode: 12; Long-form total non-response rate: 3.9; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Total income  Total income refers to the sum of certain incomes (in cash and, in some circumstances, in kind) of the statistical unit during a specified reference period. The components used to calculate total income vary between:  – Statistical units of social statistical programs such as persons, private households, census families and economic families;  – Statistical units of business statistical programs such as enterprises, companies, establishments and locations; and  – Statistical units of farm statistical programs such as farm operator and farm family.  In the context of persons, total income refers to receipts from certain sources, before income taxes and deductions, during a specified reference period.  In the context of census families, total income refers to receipts from certain sources of all of its family members, before income taxes and deductions, during a specified reference period.  In the context of economic families, total income refers to receipts from certain sources of all of its family members, before income taxes and deductions, during a specified reference period.  In the context of households, total income refers to receipts from certain sources of all household members, before income taxes and deductions, during a specified reference period.  The monetary receipts included are those that tend to be of a regular and recurring nature. Receipts that are included as income are:  employment income from wages, salaries, tips, commissions and net income from self-employment (for both unincorporated farm and non-farm activities);  income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;  income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);  other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;  income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.  Receipts excluded from this income definition are:  one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;  capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;  employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;  voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.  For the 2021 Census, the reference period for income data is the calendar year 2020, unless otherwise specified."
+2,"Household type    'Household type' refers to the differentiation of households on the basis of whether they are census family households or non-census-family households. Census family households are those that contain at least one census family. Non-census-family households are either one person living alone or a group of two or more persons who live together but do not constitute a census family. Census family households may be differentiated based on the presence of additional persons (that is, persons not in a census family)."
+3,"Housing suitability    'Housing suitability' refers to whether a private household is living in suitable accommodations according to the National Occupancy Standard (NOS); that is, whether the dwelling has enough bedrooms for the size and composition of the household. A household is deemed to be living in suitable accommodations if its dwelling has enough bedrooms, as calculated using the NOS.    'Housing suitability' assesses the required number of bedrooms for a household based on the age, sex, and relationships among household members. An alternative variable, 'persons per room,' considers all rooms in a private dwelling and the number of household members.     Housing suitability and the National Occupancy Standard (NOS) on which it is based were developed by Canada Mortgage and Housing Corporation (CMHC) through consultations with provincial housing agencies."
+4,"Dwelling condition    'Dwelling condition' refers to whether the dwelling is in need of repairs. This does not include desirable remodelling or additions."
+5,"For more information, refer to the Census Dictionary: Household type; Census family structure."
+6,"Tenure  Tenure refers to whether the household owns or rents their private dwelling. The private dwelling may be situated on rented or leased land or be part of a condominium. A household is considered to own their dwelling if some member of the household owns the dwelling even if it is not fully paid for, for example if there is a mortgage or some other claim on it. A household is considered to rent their dwelling if no member of the household owns the dwelling. A household is considered to rent that dwelling even if the dwelling is provided without cash rent or at a reduced rent, or if the dwelling is part of a cooperative.  For historical and statutory reasons, shelter occupancy on Indian reserves or settlements does not lend itself to the usual classification by standard tenure categories. Therefore, a special category, 'dwelling provided by the local government, First Nation or Indian band,' has been created for census purposes."
+7,"Shelter-cost-to-income ratio    'Shelter-cost-to-income ratio' refers to the proportion of average total income of household which is spent on shelter costs."
+8,"The category 'Not applicable' includes private households living on an agricultural operation that is operated by a member of the household, and households with zero or negative household total income."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0252-01  Shelter-cost-to-income ratio by tenure: Canada, provinces and territories, census metropolitan areas and census agglomerations"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810025201
