@@ -1,5 +1,4 @@
-Took out all null variables
-cleaned data to have everything i needed
-combined duplicate feilds
-took out unneccisary rows
-didnt have to join or union because my data was different acroos each set
+## Data Wrangling Process
+
+The raw datasets required cleaning and preparation before analysis. First, all null or incomplete variables that were not relevant to the research question were removed to ensure consistency across the dataset. Duplicate fields were identified and eliminated to avoid double counting or conflicting measures. Unnecessary rows and variables that did not directly relate to housing affordability, tenure differences, or core housing need were filtered out to streamline the dataset and improve clarity. Because each dataset contained different indicators and was analyzed separately for specific visualizations, no joins or unions were required. This decision preserved the integrity of each dataset and ensured that variables were not incorrectly merged across different structures. Overall, the cleaning process focused on simplifying the data while retaining the variables most relevant to evaluating rental affordability and homeownership dynamics.
+
