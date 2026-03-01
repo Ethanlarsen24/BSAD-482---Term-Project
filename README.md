@@ -55,3 +55,10 @@ This visualization illustrates differences in core housing needs between owners 
 
 ![housingneed](img/housingneed.png)
 
+
+## Refinded CLD
+
+
+<img width="1536" height="1024" alt="RefindedCLD" src="https://github.com/user-attachments/assets/046a3e2c-2b36-4d3b-83c8-523fef188bde" />
+
+
