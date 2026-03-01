@@ -22,3 +22,5 @@ The causal loop diagram illustrates how population growth increases rental housi
 ## Milestone 2 Changes
 
 ![homeownership rate](img/homeownership_rate.png)
+
+![Housing metrixs](img/housing metrics.png)
