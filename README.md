@@ -18,3 +18,5 @@ This project evaluates which of these approaches would more effectively improve 
 ![Causal Loop Diagram](img/cld.png) 
 
 The causal loop diagram illustrates how population growth increases rental housing demand, which places upward pressure on rental prices and reduces housing affordability. A reinforcing loop shows how continued demand growth can intensify affordability challenges over time, while a balancing loop captures how higher rental prices encourage construction activity, increasing rental supply and vacancy rates, which can slow rent growth. Government housing policy influences this system by supporting construction activity and rental supply through zoning reforms and financial incentives.
+
+## Milestone 2 Changes
