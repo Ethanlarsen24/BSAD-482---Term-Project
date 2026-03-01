@@ -21,6 +21,11 @@ The causal loop diagram illustrates how population growth increases rental housi
 
 ## Milestone 2 Changes
 
+## Milestone 2: Data Sources
+
+This analysis uses publicly available Canadian housing data focused on affordability and tenure differences between renters and homeowners. The primary datasets include: (1) core housing need by tenure, (2) renter versus owner breakdowns across affordability indicators, (3) the percentage of households spending more or less than 30% of their income on shelter costs, and (4) historical homeownership rates. Together, these datasets provide insight into housing pressure, affordability challenges, and tenure dynamics. The 30% income threshold is widely used in housing policy as a benchmark for affordability stress, while core housing need captures households that experience inadequate, unsuitable, or unaffordable housing conditions. These variables directly inform the decision of whether policy should prioritize increasing rental supply or supporting first time homebuyers to improve overall housing affordability.
+
+
 ![homeownership rate](img/homeownership_rate.png)
 
 ![housingmetrics](img/housingmetrics_.png)
