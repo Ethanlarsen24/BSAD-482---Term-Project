@@ -27,7 +27,13 @@ This analysis uses publicly available Canadian housing data focused on affordabi
 
 ## Milestone 2 Data Sources
 
+Statistics Canada. (n.d.). Housing indicators by tenure including presence of mortgage payments and subsidized housing, household type including census family structure and period of construction: Canada, provinces and territories, census metropolitan areas and census agglomerations (Table 98-10-0241-01). https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810024101](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810024101)
 
+Statistics Canada. (n.d.). Core housing needed by tenure including presence of mortgage payments and subsidized housing: Canada, provinces and territories, census divisions and census subdivisions (Table 98-10-0247-01). https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810024701](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810024701)
+
+Statistics Canada. (n.d.). Housing indicators by tenure: Canada, provinces and territories, census divisions and census subdivisions (Table 98-10-0259-01). https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810025901](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810025901)
+
+Source(s): Census of Population, 1971 to 2021 (3901), and National Household Survey, 2011 (5178).
 
 ## Figure 1: Homeownership Rate Over Time
 
