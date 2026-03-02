@@ -35,6 +35,9 @@ Statistics Canada. (n.d.). Housing indicators by tenure: Canada, provinces and t
 
 Source(s): Census of Population, 1971 to 2021 (3901), and National Household Survey, 2011 (5178).
 
+I Lost the source for data set Owners and rental totals1, i had edited it out of the file through excel and now im unable to find it, i did use statistics canada for all my data though.
+
+
 ## Figure 1: Homeownership Rate Over Time
 
 This time series visualization shows the historical trend in homeownership rates. The data indicate gradual increases over time followed by recent stagnation or slight decline. This pattern may reflect rising housing costs and affordability constraints limiting entry into homeownership. When housing becomes less affordable, fewer households can transition from renting to owning, increasing rental demand and further pressuring rental prices. This trend supports the reinforcing feedback loop in the Causal Loop Diagram, where affordability constraints reduce homeownership rates and intensify rental market pressure.
