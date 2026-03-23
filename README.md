@@ -93,10 +93,14 @@ The second key structure is a reinforcing loop that intensifies housing affordab
 
 This reinforcing dynamic suggests that affordability pressures in the rental market can become self-perpetuating. Policies that only support first-time homebuyers may not sufficiently reduce rental demand or affordability stress if underlying supply constraints remain. In contrast, policies that increase rental supply can weaken this reinforcing cycle by increasing vacancy rates and reducing rental price growth.
 
+
 ## Overall System Implications
 
 The interaction of these feedback loops highlights a key policy trade-off. Expanding rental supply directly targets the balancing loop (B1), which stabilizes the system by reducing prices and affordability pressure. At the same time, it weakens the reinforcing loop (R1) by reducing the intensity of rental demand and price escalation. In contrast, first-time homebuyer incentives primarily act on the demand side and may not address underlying supply constraints. Based on the system dynamics and supporting data, interventions that increase rental housing supply are more likely to produce broad and sustained improvements in housing affordability in Nova Scotia.
 
+## System Archetype Identification
+
+![Image 2026-03-23 at 2 45 PM](https://github.com/user-attachments/assets/dd96696f-fe23-42b3-909e-c834fa746f7d)
 
 
 
