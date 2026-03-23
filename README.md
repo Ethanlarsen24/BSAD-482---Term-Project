@@ -71,7 +71,8 @@ This visualization illustrates differences in core housing needs between owners 
 ## Refinded CLD
 
 
-<img width="1536" height="1024" alt="RefindedCLD" src="https://github.com/user-attachments/assets/046a3e2c-2b36-4d3b-83c8-523fef188bde" />
+
+![Image 2026-03-23 at 12 02 PM](https://github.com/user-attachments/assets/e27e88fb-881e-4e67-be59-b16f862a25bf)
 
 
 ## Explanation of Key Feedback Loops and Implications for the Decision
