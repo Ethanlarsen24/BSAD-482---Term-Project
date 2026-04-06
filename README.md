@@ -10,7 +10,7 @@ Housing affordability has become a major challenge in Nova Scotia, driven by pop
 To address affordability concerns, policymakers commonly consider two strategies, expanding rental housing supply or offering incentives to first time homebuyers. Increasing rental supply may help relieve pressure in the rental market by improving availability and stabilizing rents, but it often requires significant investment and time before results are realized. In contrast, first time homebuyer incentives can improve access to ownership in the short term, yet they may also increase demand in a constrained housing market, potentially contributing to higher prices.
 This project evaluates which of these approaches would more effectively improve housing affordability in Nova Scotia over a three to five year period. By examining housing and demographic trends and considering the broader system dynamics, the analysis aims to support evidence based decision making for provincial housing policy.
 
-## https://github.com/Ethanlarsen24/BSAD-482---Term-Project/blob/3546010c76f206704c6a5aae508b7e953fc1fc0c/Background.md
+[Read more](https://github.com/Ethanlarsen24/BSAD-482---Term-Project/blob/3546010c76f206704c6a5aae508b7e953fc1fc0c/Background.md)
 
 ## Milestone 2
 
