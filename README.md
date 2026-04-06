@@ -60,37 +60,6 @@ This visualization illustrates differences in core housing needs between owners 
 
 ![housingneed](img/housingneed.png)
 
-
-## Refinded CLD
-
-
-
-![Image 2026-03-23 at 12 02 PM](https://github.com/user-attachments/assets/e27e88fb-881e-4e67-be59-b16f862a25bf)
-
-
-## Explanation of Key Feedback Loops and Implications for the Decision
-
-## Balancing Loop (B1): Rental Supply Stabilization Loop
-
-The first key feedback structure in the system is a balancing loop centered on rental housing supply (Figure 6). As rental prices increase, affordability pressure rises, reflected in a higher percentage of households spending more than 30% of their income on housing and an increase in core housing need. As housing stress intensifies, pressure for policy intervention grows, leading to stronger government housing policy and increased rental construction activity. Increased construction activity expands rental housing supply, which raises vacancy rates and places downward pressure on rental prices. This loop is balancing because it works to stabilize the system: rising affordability pressure ultimately triggers supply expansion, which helps reduce rental prices and alleviate housing stress.
-
-## Implication for the decision:
-
-This loop suggests that policies focused on expanding rental supply directly address the root cause of affordability pressure. By increasing construction and overall housing availability, policymakers can influence vacancy rates and reduce rental prices, improving affordability across the system. This supports prioritizing rental supply expansion as a structurally effective intervention.
-
-## Reinforcing Loop (R1): Affordability pressure Loop
-
-The second key structure is a reinforcing loop that intensifies housing affordability challenges (Figure 6). As rental prices increase, a greater share of households spend more than 30% of their income on housing, leading to higher levels of core housing need. Increased housing need contributes to greater rental demand, which places additional upward pressure on rental prices. This loop reinforces itself, as higher rental prices lead to greater affordability pressure and demand, which further increases prices over time.
-
-## Implication for the decision:
-
-This reinforcing dynamic suggests that affordability pressures in the rental market can become self-perpetuating. Policies that only support first-time homebuyers may not sufficiently reduce rental demand or affordability stress if underlying supply constraints remain. In contrast, policies that increase rental supply can weaken this reinforcing cycle by increasing vacancy rates and reducing rental price growth.
-
-
-## Overall System Implications
-
-The interaction of these feedback loops highlights a key policy trade-off. Expanding rental supply directly targets the balancing loop (B1), which stabilizes the system by reducing prices and affordability pressure. At the same time, it weakens the reinforcing loop (R1) by reducing the intensity of rental demand and price escalation. In contrast, first-time homebuyer incentives primarily act on the demand side and may not address underlying supply constraints. Based on the system dynamics and supporting data, interventions that increase rental housing supply are more likely to produce broad and sustained improvements in housing affordability in Nova Scotia.
-
 ## System Archetype Identification
 
 ![Image 2026-03-23 at 2 45 PM](https://github.com/user-attachments/assets/dd96696f-fe23-42b3-909e-c834fa746f7d)
