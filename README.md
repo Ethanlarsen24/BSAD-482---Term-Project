@@ -88,7 +88,8 @@ The analysis suggests that the most effective decision for policymakers in Nova 
 
 ## Final Casual Loop Diagram
 
-<img width="1536" height="1024" alt="Housing affordability system diagram" src="https://github.com/user-attachments/assets/a91c2972-e590-470a-a0dc-7dc4c2dd58f2" />
+![Image 2026-04-09 at 9 59 AM](https://github.com/user-attachments/assets/0b65e2d1-c451-43b4-b620-f1bf8e7463f6)
+
 
 ## Final CLD Explanation
 
