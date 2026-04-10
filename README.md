@@ -89,7 +89,7 @@ The analysis suggests that the most effective decision for policymakers in Nova 
 ## Final Casual Loop Diagram
 
 
-![Image 2026-04-09 at 10 04 AM](https://github.com/user-attachments/assets/cf6e27be-51e0-4670-a930-fd52b1332005)
+<img width="551" height="500" alt="Screen Shot 2026-04-10 at 10 46 31 AM" src="https://github.com/user-attachments/assets/c1db514f-73ab-4350-a952-7ffebe8e54e0" />
 
 
 ## Final CLD Explanation
